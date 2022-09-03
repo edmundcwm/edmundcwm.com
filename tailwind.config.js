@@ -8,7 +8,7 @@ module.exports = {
 				body: '#393e46'
 			},
 			fontFamily: {
-				ubuntu: ['Ubuntu']
+				sans: ['Ubuntu', 'sans-serif']
 			}
 		}
 	},
