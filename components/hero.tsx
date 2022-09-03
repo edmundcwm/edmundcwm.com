@@ -1,4 +1,4 @@
-const Header = () => {
+const Hero = () => {
 	return (
 		<header className="bg-primary py-9 text-center">
 			<img
@@ -23,4 +23,4 @@ const Header = () => {
 	);
 };
 
-export default Header;
+export default Hero;
